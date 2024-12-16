@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/web-analytic-page/static/css/main.68389609.css",
+    "main.js": "/web-analytic-page/static/js/main.6f55147a.js",
+    "static/media/logo.png": "/web-analytic-page/static/media/logo.b2724e805d910e586b8f.png",
+    "index.html": "/web-analytic-page/index.html",
+    "main.68389609.css.map": "/web-analytic-page/static/css/main.68389609.css.map",
+    "main.6f55147a.js.map": "/web-analytic-page/static/js/main.6f55147a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68389609.css",
+    "static/js/main.6f55147a.js"
+  ]
+}
